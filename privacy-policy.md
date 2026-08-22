@@ -10,7 +10,7 @@ This Privacy Policy explains how the Vigil application ("Vigil", "the App", "we"
 The data controller responsible for the App is:
 
 **CODEZAUR Dominik Lipiński**  
-Email: codezaur@gmail.com
+Email: codezaur [at] gmail [dot] com
 
 ## 2. Information We Collect
 
@@ -80,4 +80,4 @@ We may update this Privacy Policy from time to time. Any changes will be publish
 If you have questions about this Privacy Policy or the privacy practices of Vigil, please contact:
 
 **CODEZAUR Dominik Lipiński**  
-Email: codezaur@gmail.com
+Email: codezaur [at] gmail [dot] com
