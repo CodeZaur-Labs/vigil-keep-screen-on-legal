@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="jadrCHq-gx3LIZ_VieG0FJnnlzoNzWxcuxIRelgvWIc" />
+
 # Vigil: keep screen on - Legal
 
 ## links:
