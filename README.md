@@ -1,7 +1,5 @@
 ---
 title: Vigil Legal
-header-includes:
-  - <meta name="google-site-verification" content="jadrCHq-gx3LIZ_VieG0FJnnlzoNzWxcuxIRelgvWIc" />
 ---
 
 <meta name="google-site-verification" content="TWÓJ_KOD_Z_GOOGLE" />
